@@ -1,4 +1,9 @@
 def print_func(word: str) -> None:
+    """
+    Print any symbols
+    :param word: any symbols
+    :return: None
+    """
     print(word)
 
 
